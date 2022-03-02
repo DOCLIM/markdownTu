@@ -1,2 +1,8 @@
 # markdownTu
-Learning MD 
+Learning ~~MARKDOWN~~
+___
+#Learning **GIT**
+* commands
+* pull
+* push
+
